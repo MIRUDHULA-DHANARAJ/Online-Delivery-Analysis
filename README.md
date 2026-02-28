@@ -9,7 +9,6 @@ This project analyzes online food delivery data to uncover insights on customer 
 - `scripts/` : Python scripts for cleaning and preprocessing  
 - `sql/` : SQL queries for analytics  
 - `dashboard/` : Power BI or Streamlit dashboards  
-- `app/` : Optional application or dashboard files  
 
 ## Key Features
 - Data cleaning and preprocessing  
@@ -36,3 +35,4 @@ This project analyzes online food delivery data to uncover insights on customer 
 
 ## Author
 Mirudhula D.
+
