@@ -25,7 +25,7 @@ This project analyzes online food delivery data to uncover insights on customer 
 ## Tools & Libraries
 - Python (pandas, numpy, matplotlib, seaborn)  
 - MySQL for query-based analysis  
-- Power BI or Streamlit for dashboards  
+- Power BI for dashboard  
 
 ## How to Run
 1. Open Jupyter notebooks to explore data and EDA.  
@@ -35,4 +35,5 @@ This project analyzes online food delivery data to uncover insights on customer 
 
 ## Author
 Mirudhula D.
+
 
